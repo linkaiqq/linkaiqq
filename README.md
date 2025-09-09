@@ -15,8 +15,7 @@
   />
 </picture>
 
-I like open source and all interesting things and want to try to do it. <br>
-I want to be interesting and create something that others can remember.
+Live fully, keep learning, and enjoy life every day.
 
 <hr>
 
