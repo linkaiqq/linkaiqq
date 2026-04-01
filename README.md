@@ -4,6 +4,15 @@
 
 <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=1200&height=120&pause=3000&border=false&lines=%5B%7B%22text%22%3A%22Hi+there%2C+I%27m+linkaiqq.%22%2C%22typingSpeed%22%3A0.16666666666666666%2C%22deleteSpeed%22%3A0.08333333333333333%7D%2C%7B%22text%22%3A%22Live+fully%2C+keep+learning%2C+and+enjoy+life+every+day.%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.05555555555555555%7D%5D" alt="Typing SVG" /></a>
 
+<h3>👨‍💻 About Me</h3>
+
+- 💻 I'm passionate about programming in Java, Python, and Golang, exploring their use in backend development, automation, and software optimization.
+- 🔭 I'm currently working as a Game Publishing Development Engineer, coordinating with payment platforms and game distribution channels.
+- 🌱 I'm currently learning game server development and large language models, working on backend programming, network optimization, and AI-driven features.
+- 💬 Be free to ask me about anything <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/linkaiqq/linkaiqq/issues">here</a>.
+
+<hr>
+
 <h3>🛠️ Languages and Tools</h3>
 
 <div align="center">
@@ -18,15 +27,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
-
-<hr>
-
-<h3>👨‍💻 About Me</h3>
-
-- 💻 I'm passionate about programming in Java, Python, and Golang, exploring their use in backend development, automation, and software optimization.
-- 🔭 I'm currently working as a Game Publishing Development Engineer, coordinating with payment platforms and game distribution channels.
-- 🌱 I'm currently learning game server development and large language models, working on backend programming, network optimization, and AI-driven features.
-- 💬 Be free to ask me about anything <a style="text-decorition='none'; color=rgb(65, 135, 207)" href="https://github.com/linkaiqq/linkaiqq/issues">here</a>.
 
 <hr>
 
